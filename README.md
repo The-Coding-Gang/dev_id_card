@@ -29,3 +29,4 @@ The package name is [font_awesome_flutter](https://pub.dev/packages/font_awesome
 
 This app was developped on an Android device(My Phone).<br>
 No emulators were used in the development process.
+
